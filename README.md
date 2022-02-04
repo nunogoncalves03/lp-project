@@ -1,2 +1,2 @@
-# lp-project
+# Hashi Puzzles
 Logic for Programming - Project (Hashi Puzzles) @ IST
