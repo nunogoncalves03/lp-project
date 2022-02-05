@@ -1,4 +1,4 @@
-% Nuno Goncalves (ist1103392)
+% Project - Hashi Puzzles
 
 :- [codigo_comum].
 
